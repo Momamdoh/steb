@@ -1,0 +1,1512 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "1- دائماً تكون صداقات جديدة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "1- Always make new friendships.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q2",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "2- تحب العمل الجماعي أكثر من العمل الفردي.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "2- You prefer teamwork over individual work.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q3",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "3- تشعر بالراحة في التحدث أمام جمهور كبير.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "3- You feel comfortable speaking in front of a large audience.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q4",
+      "dimension": "TF",
+      "translations": {
+        "ar": {
+          "text": "4- تحب أخذ المبادرة في حل المشكلات.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "4- You like taking the initiative in solving problems.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q6",
+      "dimension": "TF",
+      "translations": {
+        "ar": {
+          "text": "6- تجد صعوبة في التعامل مع الأشخاص الذين يختلفون عنك.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "6- You find it difficult to interact with people who are different from you.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q7",
+      "dimension": "SN",
+      "translations": {
+        "ar": {
+          "text": "7- تجد نفسك دائمًا متحمسًا للمشاريع الجديدة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "7- You always find yourself excited about new projects.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q8",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "8- تجد صعوبة في اتخاذ قرارات سريعة تحت الضغط.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "8- You find it difficult to make quick decisions under pressure.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q9",
+      "dimension": "SN",
+      "translations": {
+        "ar": {
+          "text": "9- تحب السفر واستكشاف أماكن جديدة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "9- You love traveling and exploring new places.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q10",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "10- تجد أن العمل في بيئة هادئة أكثر إنتاجية بالنسبة لك.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "10- You find that working in a quiet environment is more productive for you.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q11",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "11- تفضل العمل بمفردك بدلاً من العمل في مجموعة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "11- You prefer working alone rather than in a group.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q12",
+      "dimension": "TF",
+      "translations": {
+        "ar": {
+          "text": "12- تجد صعوبة في تحمل النقد.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "12- You find it difficult to handle criticism.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q13",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "13- لديك القدرة على العمل بشكل مستقل بدون توجيه.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "13- You have the ability to work independently without supervision.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q14",
+      "dimension": "TF",
+      "translations": {
+        "ar": {
+          "text": "14- تجد صعوبة في التعبير عن مشاعرك.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "14- You find it difficult to express your emotions.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q15",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "15- تجد أن العمل في بيئة مليئة بالتحفيز يجعلك أكثر إنتاجية.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "15- You find that working in a motivating environment makes you more productive.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q16",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "16- تجد صعوبة في بدء محادثات مع الغرباء.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "16- You find it difficult to initiate conversations with strangers.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q17",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "17- تجد أنه من السهل ترتيب أولويات المهام.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "17- You find it easy to prioritize tasks.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q18",
+      "dimension": "SN",
+      "translations": {
+        "ar": {
+          "text": "18- تحب تجربة أشياء جديدة وتكون مستعدًا لخوض تحديات جديدة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "18- You enjoy trying new things and are ready to face new challenges.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q19",
+      "dimension": "SN",
+      "translations": {
+        "ar": {
+          "text": "19- لديك القدرة على تقديم حلول مبتكرة للمشاكل.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "19- You have the ability to offer innovative solutions to problems.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q20",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "20- تجد صعوبة في البقاء هادئًا في مواقف الضغط.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "20- You find it difficult to stay calm under pressure.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q21",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "21- تحب العمل في بيئة مليئة بالأنشطة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "21- You enjoy working in a lively, activity-filled environment.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q22",
+      "dimension": "TF",
+      "translations": {
+        "ar": {
+          "text": "22- تفضل اتخاذ القرارات بناءً على المنطق والعقل بدلاً من العواطف.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "22- You prefer making decisions based on logic and reason rather than emotions.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q23",
+      "dimension": "TF",
+      "translations": {
+        "ar": {
+          "text": "23- تجد نفسك تفكر بشكل تحليلي عندما تواجه مشكلة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "23- You find yourself thinking analytically when facing a problem.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q24",
+      "dimension": "TF",
+      "translations": {
+        "ar": {
+          "text": "24- تجد أن الأشخاص المتفائلين يعطونك طاقة إيجابية.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "24- You feel energized by optimistic people.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q25",
+      "dimension": "TF",
+      "translations": {
+        "ar": {
+          "text": "25- تجد نفسك تشعر بالإحباط عند مواجهة صعوبة في المهمة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "25- You feel discouraged when facing difficulty in a task.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q26",
+      "dimension": "SN",
+      "translations": {
+        "ar": {
+          "text": "26- تحب متابعة الأخبار والاطلاع على كل جديد.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "26- You enjoy keeping up with the news and staying informed.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q27",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "27- تجد صعوبة في التعامل مع المواقف غير المتوقعة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "27- You find it difficult to handle unexpected situations.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q28",
+      "dimension": "SN",
+      "translations": {
+        "ar": {
+          "text": "28- تحب التحدي وتحقيق أهداف صعبة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "28- You enjoy challenges and achieving difficult goals.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q29",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "29- تجد أنه من السهل تغيير آراءك عندما تقدم أدلة قوية.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "29- You find it easy to change your opinions when given strong evidence.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q30",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "30- تجد صعوبة في العمل تحت الضغط.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "30- You find it difficult to work under pressure.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q31",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "31- تجد أنه من الصعب تحديد أهداف طويلة الأجل.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "31- You find it difficult to set long-term goals.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q32",
+      "dimension": "SN",
+      "translations": {
+        "ar": {
+          "text": "32- تجد أنه من السهل التكيف مع التغيرات في البيئة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "32- You find it easy to adapt to changes in the environment.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q33",
+      "dimension": "SN",
+      "translations": {
+        "ar": {
+          "text": "33- تحب الخوض في التفاصيل الدقيقة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "33- You enjoy diving into fine details.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q34",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "34- تحب العمل على مشاريع جماعية بدلاً من العمل الفردي.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "34- You prefer working on group projects over working alone.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q35",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "35- تجد صعوبة في اتخاذ القرارات الحاسمة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "35- You find it difficult to make decisive decisions.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q37",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "37- تجد أنه من السهل العمل في بيئة مليئة بالتحديات.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "37- You find it easy to work in a challenging environment.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q38",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "38- تجد أنه من الصعب الحفاظ على التركيز لفترات طويلة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "38- You find it difficult to maintain focus for long periods.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q39",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "39- تجد أنه من السهل العمل مع أشخاص ذوي اهتمامات مختلفة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "39- You find it easy to work with people with different interests.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q40",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "40- تحب تحديد أهدافك على المدى الطويل وتعمل بجد لتحقيقها.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "40- You enjoy setting long-term goals and working hard to achieve them.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q41",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "41- تجد أنه من السهل التركيز في العمل عندما يكون لديك خطة واضحة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "41- You find it easy to focus on work when you have a clear plan.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q42",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "42- تجد صعوبة في الالتزام بالمواعيد النهائية.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "42- You find it difficult to meet deadlines.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q43",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "43- تجد أنه من السهل العمل على المهام بشكل مستقل دون إشراف.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "43- You find it easy to work on tasks independently without supervision.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q44",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "44- تحب تلقي الملاحظات على عملك من الآخرين.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "44- You enjoy receiving feedback on your work from others.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q45",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "45- تجد صعوبة في بدء مشاريع جديدة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "45- You find it difficult to start new projects.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q46",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "46- تحب أن تكون جزءًا من فريق عمل.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "46- You enjoy being part of a team.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q47",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "47- تجد أنه من السهل بناء علاقات مع الآخرين.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "47- You find it easy to build relationships with others.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q48",
+      "dimension": "TF",
+      "translations": {
+        "ar": {
+          "text": "48- تجد صعوبة في اتخاذ القرار بسرعة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "48- You find it difficult to make decisions quickly.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q49",
+      "dimension": "SN",
+      "translations": {
+        "ar": {
+          "text": "49- تحب متابعة التوجهات الحديثة في مجالك.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "49- You enjoy keeping up with the latest trends in your field.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q50",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "50- تجد أنه من السهل تحديد أولويات المهام التي عليك القيام بها.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "50- You find it easy to prioritize the tasks you need to do.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q51",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "51- تحب توجيه الأشخاص الذين يعملون معك.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "51- You enjoy directing the people you work with.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q52",
+      "dimension": "TF",
+      "translations": {
+        "ar": {
+          "text": "52- تجد أنه من السهل التحكم في مشاعرك أثناء المواقف الصعبة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "52- You find it easy to control your emotions in difficult situations.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q53",
+      "dimension": "TF",
+      "translations": {
+        "ar": {
+          "text": "53- تجد صعوبة في تقبل النقد البناء.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "53- You find it difficult to accept constructive criticism.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q54",
+      "dimension": "TF",
+      "translations": {
+        "ar": {
+          "text": "54- تجد صعوبة في توجيه النقد للآخرين.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "54- You find it difficult to give feedback to others.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q55",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "55- تحب أن تكون في مكان القيادة واتخاذ القرارات.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "55- You enjoy being in a leadership and decision-making position.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q56",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "56- تجد صعوبة في إدارة وقتك بشكل جيد.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "56- You find it difficult to manage your time well.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q57",
+      "dimension": "EI",
+      "translations": {
+        "ar": {
+          "text": "57- تحب العمل مع الآخرين لتحقيق هدف مشترك.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "57- You enjoy working with others to achieve a common goal.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q58",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "58- تجد أنه من الصعب إتمام المهام المطلوبة منك في الوقت المحدد.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "58- You find it difficult to complete tasks on time.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q59",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "59- تحب أن تأخذ زمام المبادرة في المواقف الصعبة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "59- You enjoy taking the lead in difficult situations.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    },
+    {
+      "id": "q60",
+      "dimension": "JP",
+      "translations": {
+        "ar": {
+          "text": "60- تجد صعوبة في التعامل مع المواقف غير المتوقعة.",
+          "options": [
+            { "value": "strong-disagree", "label": "غير موافق بشدة", "score": -1 },
+            { "value": "disagree", "label": "غير موافق", "score": -0.5 },
+            { "value": "neutral", "label": "محايد", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "موافق إلى حد ما", "score": 0.5 },
+            { "value": "agree", "label": "موافق", "score": 1.0 }
+          ]
+        },
+        "en": {
+          "text": "60- You find it difficult to deal with unexpected situations.",
+          "options": [
+            { "value": "strong-disagree", "label": "Strongly disagree", "score": -1 },
+            { "value": "disagree", "label": "Disagree", "score": -0.5 },
+            { "value": "neutral", "label": "Neutral", "score": 0.0 },
+            { "value": "agree-somewhat", "label": "Agree somewhat", "score": 0.5 },
+            { "value": "agree", "label": "Agree", "score": 1.0 }
+          ]
+        }
+      }
+    }
+  ]
+}
